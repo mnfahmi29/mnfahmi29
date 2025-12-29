@@ -1,5 +1,4 @@
-## Hi there 👋
-## I’m Fahmi 👋
+## Hi there, Fahmi is here 👋
 
 I’m a physician working across biomedical data science, biostatistics,
 and applied machine learning.
