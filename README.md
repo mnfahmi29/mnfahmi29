@@ -22,6 +22,8 @@ If I should tell you how is my endurance, I could chunk One Piece nonstop😤
 - Work spanning clinical data, biosignal, omics, and imaging
 - Ongoing interest in biomedical AI, decision systems, and applied analytics
 
+## Let's collaborate, or rather teach me new thing please🤓
+
 <!--
 **mnfahmi29/mnfahmi29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
